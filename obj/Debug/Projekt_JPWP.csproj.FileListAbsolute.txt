@@ -1,0 +1,12 @@
+C:\Visual Studio\Projekty\Projekt_JPWP\bin\Debug\Projekt_JPWP.exe.config
+C:\Visual Studio\Projekty\Projekt_JPWP\bin\Debug\Projekt_JPWP.exe
+C:\Visual Studio\Projekty\Projekt_JPWP\bin\Debug\Projekt_JPWP.pdb
+C:\Visual Studio\Projekty\Projekt_JPWP\obj\Debug\Projekt_JPWP.csproj.AssemblyReference.cache
+C:\Visual Studio\Projekty\Projekt_JPWP\obj\Debug\Projekt_JPWP.Properties.Resources.resources
+C:\Visual Studio\Projekty\Projekt_JPWP\obj\Debug\Projekt_JPWP.csproj.GenerateResource.cache
+C:\Visual Studio\Projekty\Projekt_JPWP\obj\Debug\Projekt_JPWP.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Projekty\Projekt_JPWP\obj\Debug\Projekt_JPWP.exe
+C:\Visual Studio\Projekty\Projekt_JPWP\obj\Debug\Projekt_JPWP.pdb
+C:\Visual Studio\Projekty\Projekt_JPWP\obj\Debug\Projekt_JPWP.Main_menu.resources
+C:\Visual Studio\Projekty\Projekt_JPWP\obj\Debug\Projekt_JPWP.New_Game.resources
+C:\Visual Studio\Projekty\Projekt_JPWP\obj\Debug\Projekt_JPWP.Phase1_easy.resources
